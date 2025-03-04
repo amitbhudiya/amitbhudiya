@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Amit Bhudiya!<br>🎓 Currently studying at The University of Western Australia<br>💻 Learning and building cool projects in Python, HTML, CSS And JavaScript.<br>🧐 Exploring fun facts about technology, coding, and beyond!<br><br>🚀 Always excited to learn new things—let’s connect!
+👋 Hi, I’m Amit Bhudiya!<br>🎓 Currently studying at The University of Western Australia<br>💻 Learning and building cool projects in Python, HTML, CSS And JavaScript and many more.<br>🧐 Exploring fun facts about technology, coding, and beyond!<br><br>🚀 Always excited to learn new things—let’s connect!
 
 
 ## 🌐 Socials:
