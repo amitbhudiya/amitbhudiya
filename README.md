@@ -15,4 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=amitbhudiya&icon=5&color=8)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
