@@ -1,24 +1,122 @@
-# 💫 About Me:
-👋 Hi, I’m Amit Bhudiya!<br>🎓 Graduated From The University of Western Australia in Master of Information Technology.<br>💻 Learning and building cool projects in Python, HTML, CSS And JavaScript and many more.<br>🧐 Exploring fun facts about technology, coding, and beyond!<br><br>🚀 Always excited to learn new things—let’s connect!
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/amit.bhudiya.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_amit_bhudiya_/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhudiyaamit10@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amitbhudiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amitbhudiya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitbhudiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=amitbhudiya&icon=5&color=8)](https://visitcount.itsvg.in)
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitbhudiya&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amit+Bhudiya;Software+Developer+%7C+IT+Graduate;Always+Learning+%26+Building" />
+
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+
+## 💫 About Me
+
+🎓 Master of Information Technology — **The University of Western Australia**  
+💻 Software Developer with strong interest in **Full-Stack & Backend Development**  
+🧠 Passionate about **problem solving, clean code, and scalable systems**  
+🧐 Curious about emerging technologies and real-world applications  
+🚀 Always learning, building, and improving  
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🎯 Career Focus
+
+✔️ Software Development  
+✔️ Web Applications (Frontend & Backend)  
+✔️ Databases & APIs  
+✔️ Continuous Learning & Real-World Projects  
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amit.bhudiya.1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_amit_bhudiya_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhudiyaamit10@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,django,mysql,mongodb,git,github,bootstrap,arduino,figma" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📚 Currently Learning
+
+🧩 Advanced JavaScript & Backend Architecture  
+🌐 REST APIs & Authentication  
+🗄️ Database Optimization  
+☁️ Cloud Basics & Deployment  
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbhudiya&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=64748B" alt="GitHub Streak" />
+</div>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🏆 Certifications & Programs
+
+🎓 Professional Year Program (IT) — *In Progress*  
+📘 Continuous learning via online platforms  
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Open To Opportunities
+
+💼 Graduate Software Developer Roles  
+🌱 Internships & Entry-Level IT Roles  
+🤝 Open-Source Contributions  
+
+📫 **Let’s build something meaningful together!**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amitbhudiya&style=for-the-badge&color=6366f1&label=Profile+Views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
