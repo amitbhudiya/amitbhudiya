@@ -72,18 +72,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbhudiya&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=64748B" alt="GitHub Streak" />
-</div>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 🏆 Certifications & Programs
 
 🎓 Professional Year Program (IT) — *In Progress*  
