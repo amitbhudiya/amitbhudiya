@@ -14,7 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amitbhudiya&icon=5&color=8)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amitbhudiya&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
